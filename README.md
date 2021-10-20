@@ -12,10 +12,10 @@
 <p>2:如果你第一次使用..记得加客服微信m85598</p>
 <p>&nbsp;</p>
 <p>安卓手机app下载</p>
-<p><a href="https://www.baidu.com">www.m3332.com</a></p>
+<p><a href="https://www.baidu.com">点击进入</a></p>
 <p>&nbsp;</p>
 <p>为大家推荐几个可以观看的网站</p>
-<p>www.m8832.com</p>
+<p><a href="https://www.baidu.com">点击进入</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
