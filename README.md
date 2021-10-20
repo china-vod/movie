@@ -6,14 +6,11 @@
 </head>
 
 <body>
-<p><a href="https://www.baidu.com" target="_blank"><img src="https://bkimg.cdn.bcebos.com/pic/8d5494eef01f3a292df506900e75ab315c6034a8d616?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg" width="180" height="280" border="0" longdesc="http://www.m3332.com" /></a></p>
+<p><a href="https://www.baidu.com" target="_blank"><img src="https://i.ibb.co/4Nrn35Q/222.png" width="180" height="280" border="0" longdesc="http://www.m3332.com" /></a></p>
 <p>&nbsp;</p>
-<p>无法打开..联系微信客服m85598</p>
+<p>无法打开·或者·其他问题</p>
+<p>联系微信客服m85598</p>
 <p>&nbsp;</p>
-<p>安卓app下载</p>
-<p><a href="https://www.baidu.com" target="_blank">点击进入</a></p>
-<p>&nbsp;</p>
-<p>手机+电脑·浏览器观看</p>
 <p><a href="http://www.baidu.com" target="_blank">点击进入</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
