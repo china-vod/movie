@@ -6,7 +6,13 @@
 </head>
 
 <body>
-<p><a href="https://777.m883.cn" target="_blank"><img src="https://i.ibb.co/sgjqyLx/22.jpg" width="405" height="200" border="0"></a></a></a></p>
+<p>安卓App下载</p>
+<p>联系微信 m85598 </p>
+<p><a href="https://777.m883.cn"></a></p>
+<p>&nbsp;</p>
+<p>电脑+手机</p>
+<p>浏览器观看</p>
+<p><a href="https://777.m883.cn">点击进入</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
