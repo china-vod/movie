@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<p><a href="https://www.baidu.com"><img src="https://i.ibb.co/sgjqyLx/22.jpg" width="405" height="200" border="0"></a></a></a></p>
+<p><a href="https://777.m883.cn" target="_blank"><img src="https://i.ibb.co/sgjqyLx/22.jpg" width="405" height="200" border="0"></a></a></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
