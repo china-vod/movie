@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<p><a href="https://www.baidu.com" target="_blank"><img src="https://i.ibb.co/4Nrn35Q/222.png" width="180" height="280" border="0" longdesc="http://www.m3332.com" /></a></p>
+<p><a href="https://www.baidu.com" target="_blank"><img src="https://i.ibb.co/4Nrn35Q/222.png" border="0" longdesc="http://www.m3332.com" /></a></p>
 <p>&nbsp;</p>
 <p>无法打开·或者·其他问题</p>
 <p>联系微信客服m85598</p>
