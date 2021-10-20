@@ -6,12 +6,13 @@
 </head>
 
 <body>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <p><a href="https://www.baidu.com" target="_blank"><img src="https://i.ibb.co/mzWVgMx/222.png" border="0" longdesc="http://www.m3332.com" /></a></p>
 <p>&nbsp;</p>
-<p>无法打开·或者·其他问题</p>
-<p>联系微信客服m85598</p>
 <p>&nbsp;</p>
-<p><a href="http://www.baidu.com" target="_blank">点击进入</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
