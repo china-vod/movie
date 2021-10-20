@@ -6,12 +6,10 @@
 </head>
 
 <body>
-<p>安卓App下载</p>
-<p>联系微信 m85598 </p>
+<p>安卓App下载 · 联系微信 m85598 </p>
 <p><a href="https://777.m883.cn"></a></p>
 <p>&nbsp;</p>
-<p>电脑+手机</p>
-<p>浏览器观看</p>
+<p>电脑+手机 · 浏览器观看</p>
 <p><a href="https://777.m883.cn">点击进入</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
